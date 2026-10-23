@@ -1,0 +1,21 @@
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js / React
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
